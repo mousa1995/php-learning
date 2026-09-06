@@ -1,0 +1,204 @@
+# PHP Learning Roadmap
+
+## Goal
+
+Learn PHP fundamentals required to understand and build Laravel APIs.
+
+---
+
+# Phase 1 — PHP Basics
+
+- [ ] Understand PHP syntax
+- [ ] Run a PHP file
+- [ ] Hello World
+- [ ] Variables
+- [ ] Constants
+- [ ] Comments
+
+## Types
+
+- [ ] Strings
+- [ ] Integers
+- [ ] Floats
+- [ ] Booleans
+- [ ] Null
+- [ ] Type juggling
+
+## Operators
+
+- [ ] Arithmetic operators
+- [ ] Assignment operators
+- [ ] Comparison operators
+- [ ] Logical operators
+
+## Control Flow
+
+- [ ] if
+- [ ] switch
+- [ ] match
+- [ ] loops
+
+---
+
+# Phase 2 — Arrays
+
+- [ ] Indexed arrays
+- [ ] Associative arrays
+- [ ] Multidimensional arrays
+- [ ] Common array functions
+- [ ] Iterate over arrays
+
+---
+
+# Phase 3 — Functions
+
+- [ ] Define functions
+- [ ] Parameters
+- [ ] Return values
+- [ ] Type declarations
+- [ ] Default parameters
+- [ ] Anonymous functions
+- [ ] Arrow functions
+
+---
+
+# Phase 4 — PHP Type System
+
+- [ ] Parameter types
+- [ ] Return types
+- [ ] Nullable types
+- [ ] Union types
+- [ ] strict_types
+- [ ] Type coercion
+- [ ] Type declarations
+
+---
+
+# Phase 5 — Web & HTTP
+
+- [ ] Understand PHP in a web server
+- [ ] GET
+- [ ] POST
+- [ ] Request data
+- [ ] JSON
+- [ ] JSON encode
+- [ ] JSON decode
+- [ ] HTTP status codes
+- [ ] JSON responses
+
+---
+
+# Phase 6 — Error Handling
+
+- [ ] Errors
+- [ ] Exceptions
+- [ ] try / catch
+- [ ] throw
+- [ ] finally
+
+---
+
+# Phase 7 — OOP
+
+- [ ] Classes
+- [ ] Objects
+- [ ] Properties
+- [ ] Methods
+- [ ] Constructors
+- [ ] public
+- [ ] private
+- [ ] protected
+- [ ] Inheritance
+- [ ] Interfaces
+- [ ] Static members
+- [ ] Abstract classes
+
+---
+
+# Phase 8 — Namespaces & Modern PHP
+
+- [ ] Namespaces
+- [ ] use
+- [ ] Enums
+- [ ] Traits
+- [ ] Basic dependency concepts
+
+---
+
+# Phase 9 — Composer
+
+- [ ] Understand Composer
+- [ ] composer.json
+- [ ] Install a package
+- [ ] Understand dependencies
+- [ ] Autoloading
+- [ ] PSR-4 basics
+
+---
+
+# Phase 10 — Laravel Preparation
+
+- [ ] Understand MVC
+- [ ] Understand routing
+- [ ] Understand controllers
+- [ ] Understand request / response
+- [ ] Understand middleware
+- [ ] Understand validation
+- [ ] Understand models
+- [ ] Understand migrations
+- [ ] Understand ORM concept
+
+---
+
+# Phase 11 — Laravel Backend
+
+- [ ] Create Laravel project
+- [ ] Verify Laravel installation
+- [ ] Configure environment
+- [ ] Start Laravel server
+- [ ] Create API routes
+- [ ] Create ExpenseController
+- [ ] Create request validation
+- [ ] Create Expense model
+- [ ] Create migration
+- [ ] Connect database
+- [ ] Implement GET /api/expenses
+- [ ] Implement POST /api/expenses
+- [ ] Implement GET /api/expenses/{expense}
+- [ ] Implement PUT /api/expenses/{expense}
+- [ ] Implement DELETE /api/expenses/{expense}
+
+---
+
+# Phase 12 — Connect React to Laravel
+
+- [ ] Remove localStorage as the main data source
+- [ ] Fetch expenses from Laravel
+- [ ] Create expense through API
+- [ ] Delete expense through API
+- [ ] Update expense through API
+- [ ] Handle loading state
+- [ ] Handle API errors
+- [ ] Handle validation errors
+- [ ] Verify frontend/backend communication
+
+---
+
+# Git
+
+- [ ] Commit each meaningful concept
+- [ ] Push regularly
+- [ ] Keep commits focused
+- [ ] Write descriptive commit messages
+
+---
+
+# Final Goal
+
+React + TypeScript
+↓
+Laravel API
+↓
+Database
+
+Build a complete full-stack Expense Tracker.

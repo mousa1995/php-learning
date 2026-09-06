@@ -1,0 +1,89 @@
+# =========================
+# PHP
+# =========================
+
+*.log
+*.cache
+*.tmp
+*.temp
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+
+# =========================
+# Composer
+# =========================
+
+/vendor/
+composer.phar
+
+
+# =========================
+# Laravel
+# =========================
+
+/public/build/
+/public/hot
+/storage/*.key
+
+/storage/pail
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+
+
+# =========================
+# IDE / Editors
+# =========================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+*~
+
+
+# =========================
+# OS
+# =========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+
+# =========================
+# Testing / Coverage
+# =========================
+
+.phpunit.result.cache
+.phpunit.cache/
+coverage/
+
+
+# =========================
+# Node / Frontend
+# =========================
+
+/node_modules/
+/npm-debug.log*
+/yarn-debug.log*
+/yarn-error.log*
+/pnpm-debug.log*
+
+/dist/
+/build/
+
+
+# =========================
+# Misc
+# =========================
+
+*.bak
+*.orig
