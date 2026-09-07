@@ -8,10 +8,10 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 1 — PHP Basics
 
-- [ ] Understand PHP syntax
-- [ ] Run a PHP file
-- [ ] Hello World
-- [ ] Variables
+- [x] Understand PHP syntax
+- [x] Run a PHP file
+- [x] Hello World
+- [x] Variables
 - [ ] Constants
 - [ ] Comments
 
