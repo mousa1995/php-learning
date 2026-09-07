@@ -18,7 +18,7 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 ## Types
 
 - [x] Strings
-- [ ] Integers
+- [x] Integers
 - [ ] Floats
 - [ ] Booleans
 - [ ] Null
