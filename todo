@@ -42,7 +42,7 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 2 — Arrays
 
-- [ ] Indexed arrays
+- [x] Indexed arrays
 - [ ] Associative arrays
 - [ ] Multidimensional arrays
 - [ ] Common array functions
