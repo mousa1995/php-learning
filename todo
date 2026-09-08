@@ -29,14 +29,14 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 - [x] Arithmetic operators
 - [x] Assignment operators
 - [x] Comparison operators
-- [ ] Logical operators
+- [x] Logical operators
 
 ## Control Flow
 
-- [ ] if
-- [ ] switch
-- [ ] match
-- [ ] loops
+- [x] if
+- [x] switch
+- [x] match
+- [x] loops
 
 ---
 
