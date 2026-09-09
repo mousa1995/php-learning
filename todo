@@ -52,7 +52,7 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 3 — Functions
 
-- [ ] Define functions
+- [x] Define functions
 - [ ] Parameters
 - [ ] Return values
 - [ ] Type declarations
