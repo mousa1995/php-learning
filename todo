@@ -64,13 +64,13 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 4 — PHP Type System
 
-- [ ] Parameter types
-- [ ] Return types
-- [ ] Nullable types
-- [ ] Union types
-- [ ] strict_types
-- [ ] Type coercion
-- [ ] Type declarations
+- [x] Parameter types
+- [x] Return types
+- [x] Nullable types
+- [x] Union types
+- [x] strict_types
+- [x] Type coercion
+- [x] Type declarations
 
 ---
 
