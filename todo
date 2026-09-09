@@ -55,8 +55,8 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 - [x] Define functions
 - [x] Parameters
 - [x] Return values
-- [ ] Type declarations
-- [ ] Default parameters
+- [x] Type declarations
+- [x] Default parameters
 - [ ] Anonymous functions
 - [ ] Arrow functions
 
