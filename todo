@@ -79,9 +79,9 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 - [x] Understand PHP in a web server
 - [x] GET
 - [x] POST
-- [ ] Request data
-- [ ] JSON
-- [ ] JSON encode
+- [x] Request data
+- [x] JSON
+- [x] JSON encode
 - [ ] JSON decode
 - [ ] HTTP status codes
 - [ ] JSON responses
