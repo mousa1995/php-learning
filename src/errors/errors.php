@@ -1,6 +1,5 @@
-
 <?php
 
-echo "Before"
+//echo "Before"
 
-echo "After";
+//echo "After";

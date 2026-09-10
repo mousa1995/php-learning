@@ -90,8 +90,8 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 6 — Error Handling
 
-- [ ] Errors
-- [ ] Exceptions
+- [x] Errors
+- [x] Exceptions
 - [ ] try / catch
 - [ ] throw
 - [ ] finally
