@@ -2,4 +2,7 @@
 
 //https://edabit.com/challenge/RTEiB6WTEPwjfvF9o
 
-function giveMeSomething($a) {}
+function giveMeSomething($a)
+{
+    return "something $a";
+}
