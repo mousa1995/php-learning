@@ -76,8 +76,8 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 5 — Web & HTTP
 
-- [ ] Understand PHP in a web server
-- [ ] GET
+- [x] Understand PHP in a web server
+- [x] GET
 - [ ] POST
 - [ ] Request data
 - [ ] JSON
