@@ -82,9 +82,9 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 - [x] Request data
 - [x] JSON
 - [x] JSON encode
-- [ ] JSON decode
-- [ ] HTTP status codes
-- [ ] JSON responses
+- [x] JSON decode
+- [x] HTTP status codes
+- [x] JSON responses
 
 ---
 
