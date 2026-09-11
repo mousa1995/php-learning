@@ -121,9 +121,178 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 - [x] use
 - [x] Enums
 - [x] Traits
-- [ ] Basic dependency concepts
+- [x] Basic dependency concepts
 
 ---
+
+# It Seems I Need More PHP Tutorial Need!
+
+# Phase 8.5 => PHP Standard Library Mastery
+
+Goal: Build practical familiarity with commonly used PHP functions.
+
+## 8.5.1 — Array Functions
+
+### Core
+
+- [ ] count()
+- [ ] in_array()
+- [ ] array_search()
+- [ ] array_key_exists()
+- [ ] array_keys()
+- [ ] array_values()
+
+### Transform
+
+- [ ] array_map()
+- [ ] array_filter()
+- [ ] array_reduce()
+
+### Modify / Combine
+
+- [ ] array_merge()
+- [ ] array_push()
+- [ ] array_pop()
+- [ ] array_shift()
+- [ ] array_unshift()
+- [ ] array_slice()
+- [ ] array_splice()
+
+### Extract / Organize
+
+- [ ] array_column()
+- [ ] array_unique()
+
+### Sorting
+
+- [ ] sort()
+- [ ] rsort()
+- [ ] asort()
+- [ ] arsort()
+- [ ] ksort()
+- [ ] krsort()
+
+---
+
+## 8.5.2 — String Functions
+
+### Basic
+
+- [ ] strlen()
+- [ ] trim()
+- [ ] strtolower()
+- [ ] strtoupper()
+- [ ] ucfirst()
+
+### Search
+
+- [ ] strpos()
+- [ ] str_contains()
+- [ ] str_starts_with()
+- [ ] str_ends_with()
+
+### Modify
+
+- [ ] str_replace()
+- [ ] substr()
+
+### Split / Join
+
+- [ ] explode()
+- [ ] implode()
+
+---
+
+## 8.5.3 — JSON Functions
+
+- [ ] json_encode()
+- [ ] json_decode()
+- [ ] json_last_error()
+- [ ] json_last_error_msg()
+
+---
+
+## 8.5.4 — Variable & Type Functions
+
+- [ ] isset()
+- [ ] empty()
+- [ ] is_null()
+- [ ] is_array()
+- [ ] is_string()
+- [ ] is_int()
+- [ ] is_float()
+- [ ] is_bool()
+- [ ] is_numeric()
+- [ ] gettype()
+
+---
+
+## 8.5.5 — Math Functions
+
+- [ ] abs()
+- [ ] round()
+- [ ] ceil()
+- [ ] floor()
+- [ ] min()
+- [ ] max()
+
+---
+
+## 8.5.6 — Date & Time
+
+- [ ] date()
+- [ ] time()
+- [ ] strtotime()
+- [ ] DateTime
+- [ ] DateTimeImmutable
+
+---
+
+## 8.5.7 — Filesystem Functions
+
+- [ ] file_get_contents()
+- [ ] file_put_contents()
+- [ ] file_exists()
+- [ ] is_file()
+- [ ] is_dir()
+- [ ] mkdir()
+- [ ] unlink()
+
+---
+
+## 8.5.8 — URL Functions
+
+- [ ] parse_url()
+- [ ] http_build_query()
+- [ ] urlencode()
+- [ ] urldecode()
+
+---
+
+## 8.5.9 — Filtering & Validation
+
+- [ ] filter_var()
+- [ ] filter_input()
+
+---
+
+## 8.5.10 — Hash & Password
+
+- [ ] password_hash()
+- [ ] password_verify()
+- [ ] hash()
+
+---
+
+## 8.5.11 — Usage Mastery
+
+- [ ] Understand what problem each function solves
+- [ ] Solve a problem with foreach
+- [ ] Solve the same problem with the appropriate built-in
+- [ ] Write common functions from memory
+- [ ] Use functions in realistic examples
+- [ ] Combine multiple functions
+- [ ] Recognize when not to use a function
 
 # Phase 9 — Composer
 
