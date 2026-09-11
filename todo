@@ -156,10 +156,10 @@ Next Function
 ### Core
 
 - [x] count()
-- [ ] in_array()
-- [ ] array_search()
-- [ ] array_key_exists()
-- [ ] array_keys()
+- [x] in_array()
+- [x] array_search()
+- [x] array_key_exists()
+- [x] array_keys()
 - [ ] array_values()
 
 ### Transform
