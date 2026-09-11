@@ -117,10 +117,10 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 8 — Namespaces & Modern PHP
 
-- [ ] Namespaces
-- [ ] use
-- [ ] Enums
-- [ ] Traits
+- [x] Namespaces
+- [x] use
+- [x] Enums
+- [x] Traits
 - [ ] Basic dependency concepts
 
 ---
