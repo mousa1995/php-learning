@@ -93,8 +93,8 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 - [x] Errors
 - [x] Exceptions
 - [x] try / catch
-- [ ] throw
-- [ ] finally
+- [x] throw
+- [x] finally
 
 ---
 
