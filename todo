@@ -100,18 +100,18 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 # Phase 7 — OOP
 
-- [ ] Classes
-- [ ] Objects
-- [ ] Properties
-- [ ] Methods
-- [ ] Constructors
-- [ ] public
-- [ ] private
-- [ ] protected
-- [ ] Inheritance
-- [ ] Interfaces
-- [ ] Static members
-- [ ] Abstract classes
+- [x] Classes
+- [x] Objects
+- [x] Properties
+- [x] Methods
+- [x] Constructors
+- [x] public
+- [x] private
+- [x] protected
+- [x] Inheritance
+- [x] Interfaces
+- [x] Static members
+- [x] Abstract classes
 
 ---
 
