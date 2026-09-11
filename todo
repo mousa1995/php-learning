@@ -131,11 +131,31 @@ Learn PHP fundamentals required to understand and build Laravel APIs.
 
 Goal: Build practical familiarity with commonly used PHP functions.
 
+# Method
+
+One Function
+↓
+“What Problem Does It Solve?”
+↓
+Prediction
+↓
+Execution
+↓
+Real-World Problem
+↓
+3–5 Exercises
+↓
+Problem Without Naming the Function
+↓
+Review
+↓
+Next Function
+
 ## 8.5.1 — Array Functions
 
 ### Core
 
-- [ ] count()
+- [x] count()
 - [ ] in_array()
 - [ ] array_search()
 - [ ] array_key_exists()
