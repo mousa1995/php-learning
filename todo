@@ -160,11 +160,11 @@ Next Function
 - [x] array_search()
 - [x] array_key_exists()
 - [x] array_keys()
-- [ ] array_values()
+- [x] array_values()
 
 ### Transform
 
-- [ ] array_map()
+- [x] array_map()
 - [ ] array_filter()
 - [ ] array_reduce()
 
