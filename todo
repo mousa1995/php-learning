@@ -171,10 +171,10 @@ Next Function
 ### Modify / Combine
 
 - [x] array_merge()
-- [ ] array_push()
-- [ ] array_pop()
-- [ ] array_shift()
-- [ ] array_unshift()
+- [x] array_push()
+- [x] array_pop()
+- [x] array_shift()
+- [x] array_unshift()
 - [ ] array_slice()
 - [ ] array_splice()
 
