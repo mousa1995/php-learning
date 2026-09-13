@@ -170,7 +170,7 @@ Next Function
 
 ### Modify / Combine
 
-- [ ] array_merge()
+- [x] array_merge()
 - [ ] array_push()
 - [ ] array_pop()
 - [ ] array_shift()
