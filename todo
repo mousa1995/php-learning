@@ -176,7 +176,7 @@ Next Function
 - [x] array_shift()
 - [x] array_unshift()
 - [x] array_slice()
-- [ ] array_splice()
+- [x] array_splice()
 
 ### Extract / Organize
 
