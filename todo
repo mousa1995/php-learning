@@ -165,8 +165,8 @@ Next Function
 ### Transform
 
 - [x] array_map()
-- [ ] array_filter()
-- [ ] array_reduce()
+- [x] array_filter()
+- [x] array_reduce()
 
 ### Modify / Combine
 
