@@ -181,7 +181,7 @@ Next Function
 ### Extract / Organize
 
 - [x] array_column()
-- [ ] array_unique()
+- [x] array_unique()
 
 ### Sorting
 
