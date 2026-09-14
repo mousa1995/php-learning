@@ -186,7 +186,7 @@ Next Function
 ### Sorting
 
 - [x] sort()
-- [ ] rsort()
+- [x] rsort()
 - [ ] asort()
 - [ ] arsort()
 - [ ] ksort()
