@@ -180,7 +180,7 @@ Next Function
 
 ### Extract / Organize
 
-- [ ] array_column()
+- [x] array_column()
 - [ ] array_unique()
 
 ### Sorting
