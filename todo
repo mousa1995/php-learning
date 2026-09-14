@@ -189,8 +189,8 @@ Next Function
 - [x] rsort()
 - [x] asort()
 - [x] arsort()
-- [ ] ksort()
-- [ ] krsort()
+- [x] ksort()
+- [x] krsort()
 
 ---
 
