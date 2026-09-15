@@ -214,7 +214,7 @@ Next Function
 ### Modify
 
 - [x] str_replace()
-- [ ] substr()
+- [x] substr()
 
 ### Split / Join
 
