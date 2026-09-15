@@ -198,7 +198,7 @@ Next Function
 
 ### Basic
 
-- [ ] strlen()
+- [x] strlen()
 - [ ] trim()
 - [ ] strtolower()
 - [ ] strtoupper()
