@@ -202,7 +202,7 @@ Next Function
 - [x] trim()
 - [x] strtolower()
 - [x] strtoupper()
-- [ ] ucfirst()
+- [x] ucfirst()
 
 ### Search
 
