@@ -201,7 +201,7 @@ Next Function
 - [x] strlen()
 - [x] trim()
 - [x] strtolower()
-- [ ] strtoupper()
+- [x] strtoupper()
 - [ ] ucfirst()
 
 ### Search
