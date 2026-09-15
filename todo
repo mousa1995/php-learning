@@ -208,12 +208,12 @@ Next Function
 
 - [x] strpos()
 - [x] str_contains()
-- [ ] str_starts_with()
-- [ ] str_ends_with()
+- [s] str_starts_with()
+- [s] str_ends_with()
 
 ### Modify
 
-- [ ] str_replace()
+- [x] str_replace()
 - [ ] substr()
 
 ### Split / Join
