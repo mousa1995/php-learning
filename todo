@@ -218,8 +218,8 @@ Next Function
 
 ### Split / Join
 
-- [ ] explode()
-- [ ] implode()
+- [x] explode()
+- [x] implode()
 
 ---
 
