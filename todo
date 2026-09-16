@@ -225,10 +225,10 @@ Next Function
 
 ## 8.5.3 — JSON Functions
 
-- [ ] json_encode()
-- [ ] json_decode()
-- [ ] json_last_error()
-- [ ] json_last_error_msg()
+- [s] json_encode()
+- [s] json_decode()
+- [s] json_last_error()
+- [x] json_last_error_msg()
 
 ---
 
