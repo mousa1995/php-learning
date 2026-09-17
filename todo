@@ -234,8 +234,8 @@ Next Function
 
 ## 8.5.4 — Variable & Type Functions
 
-- [ ] isset()
-- [ ] empty()
+- [x] isset()
+- [x] empty()
 - [ ] is_null()
 - [ ] is_array()
 - [ ] is_string()
