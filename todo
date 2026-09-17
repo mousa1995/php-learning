@@ -262,7 +262,7 @@ Next Function
 
 - [x] date()
 - [x] time()
-- [ ] strtotime()
+- [x] strtotime()
 - [ ] DateTime
 - [ ] DateTimeImmutable
 
