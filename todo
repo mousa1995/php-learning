@@ -241,7 +241,7 @@ Next Function
 - [x] is_string()
 - [x] is_int()
 - [x] is_float()
-- [ ] is_bool()
+- [x] is_bool()
 - [ ] is_numeric()
 - [ ] gettype()
 
