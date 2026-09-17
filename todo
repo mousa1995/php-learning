@@ -249,12 +249,12 @@ Next Function
 
 ## 8.5.5 — Math Functions
 
-- [ ] abs()
-- [ ] round()
-- [ ] ceil()
-- [ ] floor()
-- [ ] min()
-- [ ] max()
+- [s] abs()
+- [s] round()
+- [s] ceil()
+- [s] floor()
+- [s] min()
+- [s] max()
 
 ---
 
