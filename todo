@@ -237,7 +237,7 @@ Next Function
 - [x] isset()
 - [x] empty()
 - [x] is_null()
-- [ ] is_array()
+- [x] is_array()
 - [ ] is_string()
 - [ ] is_int()
 - [ ] is_float()
