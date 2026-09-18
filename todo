@@ -282,7 +282,7 @@ Next Function
 
 ## 8.5.8 — URL Functions
 
-- [ ] parse_url()
+- [x] parse_url()
 - [ ] http_build_query()
 - [ ] urlencode()
 - [ ] urldecode()
