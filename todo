@@ -274,7 +274,7 @@ Next Function
 - [x] file_put_contents()
 - [x] file_exists()
 - [x] is_file()
-- [ ] is_dir()
+- [x] is_dir()
 - [ ] mkdir()
 - [ ] unlink()
 
