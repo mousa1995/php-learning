@@ -276,7 +276,7 @@ Next Function
 - [x] is_file()
 - [x] is_dir()
 - [x] mkdir()
-- [ ] unlink()
+- [x] unlink()
 
 ---
 
