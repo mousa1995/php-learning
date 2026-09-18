@@ -271,7 +271,7 @@ Next Function
 ## 8.5.7 — Filesystem Functions
 
 - [x] file_get_contents()
-- [ ] file_put_contents()
+- [x] file_put_contents()
 - [ ] file_exists()
 - [ ] is_file()
 - [ ] is_dir()
