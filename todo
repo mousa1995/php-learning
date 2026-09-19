@@ -292,7 +292,7 @@ Next Function
 ## 8.5.9 — Filtering & Validation
 
 - [x] filter_var()
-- [ ] filter_input()
+- [x] filter_input()
 
 ---
 
