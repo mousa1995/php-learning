@@ -87,3 +87,5 @@ coverage/
 
 *.bak
 *.orig
+# Harper generated files
+%cmder%php-learning%*
