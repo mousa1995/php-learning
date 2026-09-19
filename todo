@@ -285,7 +285,7 @@ Next Function
 - [x] parse_url()
 - [x] http_build_query()
 - [x] urlencode()
-- [ ] urldecode()
+- [x] urldecode()
 
 ---
 
