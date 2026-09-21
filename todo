@@ -299,7 +299,7 @@ Next Function
 ## 8.5.10 — Hash & Password
 
 - [x] password_hash()
-- [ ] password_verify()
+- [x] password_verify()
 - [ ] hash()
 
 ---
