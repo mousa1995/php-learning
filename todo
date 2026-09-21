@@ -300,7 +300,7 @@ Next Function
 
 - [x] password_hash()
 - [x] password_verify()
-- [ ] hash()
+- [x] hash()
 
 ---
 
