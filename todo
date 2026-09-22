@@ -306,22 +306,22 @@ Next Function
 
 ## 8.5.11 — Usage Mastery
 
-- [ ] Understand what problem each function solves
-- [ ] Solve a problem with foreach
-- [ ] Solve the same problem with the appropriate built-in
-- [ ] Write common functions from memory
-- [ ] Use functions in realistic examples
-- [ ] Combine multiple functions
-- [ ] Recognize when not to use a function
+- [s] Understand what problem each function solves
+- [s] Solve a problem with foreach
+- [s] Solve the same problem with the appropriate built-in
+- [s] Write common functions from memory
+- [s] Use functions in realistic examples
+- [s] Combine multiple functions
+- [s] Recognize when not to use a function
 
 # Phase 9 — Composer
 
-- [ ] Understand Composer
-- [ ] composer.json
-- [ ] Install a package
-- [ ] Understand dependencies
-- [ ] Autoloading
-- [ ] PSR-4 basics
+- [x] Understand Composer
+- [x] composer.json
+- [x] Install a package
+- [x] Understand dependencies
+- [x] Autoloading
+- [x] PSR-4 basics
 
 ---
 
