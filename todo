@@ -339,55 +339,41 @@ Next Function
 
 ---
 
-# Phase 11 — Laravel Backend
+# Phase 11 — Laravel Mini Project
 
 - [ ] Create Laravel project
 - [ ] Verify Laravel installation
-- [ ] Configure environment
+- [ ] Configure `.env`
 - [ ] Start Laravel server
-- [ ] Create API routes
-- [ ] Create ExpenseController
-- [ ] Create request validation
-- [ ] Create Expense model
+
+## Routing & Controllers
+
+- [ ] Create API route
+- [ ] Create NoteController
+- [ ] Understand Controller → Model flow
+
+## Database
+
+- [ ] Create Note model
 - [ ] Create migration
 - [ ] Connect database
-- [ ] Implement GET /api/expenses
-- [ ] Implement POST /api/expenses
-- [ ] Implement GET /api/expenses/{expense}
-- [ ] Implement PUT /api/expenses/{expense}
-- [ ] Implement DELETE /api/expenses/{expense}
+- [ ] Run migration
 
----
+## Validation
 
-# Phase 12 — Connect React to Laravel
+- [ ] Validate note title
+- [ ] Validate note body
 
-- [ ] Remove localStorage as the main data source
-- [ ] Fetch expenses from Laravel
-- [ ] Create expense through API
-- [ ] Delete expense through API
-- [ ] Update expense through API
-- [ ] Handle loading state
-- [ ] Handle API errors
-- [ ] Handle validation errors
-- [ ] Verify frontend/backend communication
+## API
 
----
+- [ ] GET /api/notes
+- [ ] POST /api/notes
+- [ ] GET /api/notes/{note}
+- [ ] DELETE /api/notes/{note}
 
-# Git
+## Understanding
 
-- [ ] Commit each meaningful concept
-- [ ] Push regularly
-- [ ] Keep commits focused
-- [ ] Write descriptive commit messages
-
----
-
-# Final Goal
-
-React + TypeScript
-↓
-Laravel API
-↓
-Database
-
-Build a complete full-stack Expense Tracker.
+- [ ] Understand Request → Controller → Model → Database
+- [ ] Understand Response
+- [ ] Understand Route Model Binding
+- [ ] Understand Eloquent CRUD
