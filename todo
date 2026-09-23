@@ -327,15 +327,15 @@ Next Function
 
 # Phase 10 — Laravel Preparation
 
-- [ ] Understand MVC
-- [ ] Understand routing
-- [ ] Understand controllers
-- [ ] Understand request / response
-- [ ] Understand middleware
-- [ ] Understand validation
-- [ ] Understand models
-- [ ] Understand migrations
-- [ ] Understand ORM concept
+- [x] Understand MVC
+- [x] Understand routing
+- [x] Understand controllers
+- [x] Understand request / response
+- [x] Understand middleware
+- [x] Understand validation
+- [x] Understand models
+- [x] Understand migrations
+- [x] Understand ORM concept
 
 ---
 
