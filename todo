@@ -341,8 +341,8 @@ Next Function
 
 # Phase 11 — Laravel Mini Project
 
-- [ ] Create Laravel project
-- [ ] Verify Laravel installation
+- [x] Create Laravel project
+- [x] Verify Laravel installation
 - [ ] Configure `.env`
 - [ ] Start Laravel server
 
