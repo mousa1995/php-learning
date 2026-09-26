@@ -10,3 +10,6 @@ Route::get('/user', function (Request $request) {
 
 
 Route::get('/notes', [NoteController::class, 'index']);
+Route::post('/notes', [NoteController::class, 'store']);
+Route::get('/notes/{note}', [NoteController::class, 'show']);
+Route::delete('/notes/{note}', [NoteController::class, 'destroy']);

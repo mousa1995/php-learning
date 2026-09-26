@@ -343,33 +343,44 @@ Next Function
 
 - [x] Create Laravel project
 - [x] Verify Laravel installation
-- [ ] Configure `.env`
-- [ ] Start Laravel server
+- [x] Configure `.env`
+      copy .env.example .env
+      php artisan key:generate
+- [x] Start Laravel server
+      php artisan serve
 
 ## Routing & Controllers
 
-- [ ] Create API route
-- [ ] Create NoteController
-- [ ] Understand Controller → Model flow
+- [x] Create API route
+      php artisan install:api
+- [x] Create NoteController
+      php artisan make:controller NoteController
+- [] Understand Controller → Model flow
+  php artisan make:model Note -m
+  // above command makes these two:
+  app/Models/Note.php
+  database/migrations/....\_create_notes_table.php
 
 ## Database
 
-- [ ] Create Note model
-- [ ] Create migration
-- [ ] Connect database
-- [ ] Run migration
+- [x] Create Note model
+- [x] Create migration
+- [x] Connect database
+- [x] Run migration
 
 ## Validation
 
-- [ ] Validate note title
-- [ ] Validate note body
+- [x] Validate note title
+      λ curl --noproxy "\*" -X POST http://127.0.0.1:8000/api/notes -H "Content-Type: application/json" -d "{\"title\":\"My first note\",\"body\":\"This is my first note.\"}"
+- [x] Validate note body
+      λ curl --noproxy "\*" -X POST http://127.0.0.1:8000/api/notes -H "Content-Type: application/json" -d "{\"body\":\"This is my first note.\"}"
 
 ## API
 
-- [ ] GET /api/notes
-- [ ] POST /api/notes
-- [ ] GET /api/notes/{note}
-- [ ] DELETE /api/notes/{note}
+- [x] GET /api/notes
+- [x] POST /api/notes
+- [x] GET /api/notes/{note}
+- [x] DELETE /api/notes/{note}
 
 ## Understanding
 
